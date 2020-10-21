@@ -1,0 +1,24 @@
+First, let me introduce myself. My name is Sergei Garcia, and I’m a full-time front end developer with 2 years experience. In that time, I’ve worked as a front-end developer for both a Forbes 500 consulting firm and a small company.
+
+This may not sound like a lot of experience, but finishing my second year as a developer has been a huge milestone for me. This is because I had no real experience doing web development — and not much programming experience in general beyond some basic C# and Java training I got from a few online courses. I also didn’t have a computer science degree since I graduated with a degree in IT project management.
+
+I’d never written about my experience despite all the help I’ve received from wonderful resources like Medium, Stack Overflow, and Reddit’s programming subreddits. So today, I decided to change that. Today I’m going to fill you in on what went right, and what didn’t, so that if you’re embarking on this journey, you’ll have better luck than I did.
+
+I know that there are a lot of articles like this, but not very many of them discuss the process with the benefit of an extra two years of hindsight.
+
+I’ll start off with my journey, including what went wrong along the way. If you just care about what my suggestions for the shortest possible route to becoming a web developer from scratch are, feel free to skip to the last section: The shortest route.
+
+So, without any further ado, Let’s get started!
+
+Getting the Basics
+After deciding I wanted to get into web development the first question on my mind was “What do I learn?” After doing some research, I ended up making my learning path based on what most entry-level web developer positions asked for, which was:
+
+JavaScript
+HTML & CSS
+CSS Preprocessors (Less & Sass)
+Responsive Design
+AngularJS
+Design Patterns
+Git
+NodeJS
+Task Runners
